@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="001 Buscador Haceb" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-03T17:42:55" hostname="PC" time="42.344">
+  <properties/>
+  <testcase name="Buscar producto en el buscador de Haceb exitoso" classname="001 Buscador Haceb" time="42.344"/>
+  <system-out><![CDATA[By.xpath: //div[@class='title-product visible-only-mobile']//h1[contains(text(),'Lavadora Digital Atlas 18 Kg Panel Trasero ONIX')]
+By.xpath: //div[@class='title-product visible-only-mobile']//h1[contains(text(),'Minibar 87 Haceb - 90 Litros - Titanio')]
+By.xpath: //div[@class='title-product visible-only-mobile']//h1[contains(text(),'Freidora de Aire sin Aceite Haceb Negra')]
+By.xpath: //div[@class='title-product visible-only-mobile']//h1[contains(text(),'Campana Sándalo Inox 60 cm 3 velocidades Haceb')]
+By.xpath: //div[@class='title-product visible-only-mobile']//h1[contains(text(),'Nevera Siberia 294 Litros Haceb - Manija Integrada - Titanio')]
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 91.0.4472.19 (1bf021f248676a0b2ab3ee0561d83a59e424c23e-refs/branch-heads/4472@{#288}) on port 24774
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun 03, 2021 12:43:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
